@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9ba21854730632e4694172b37ab4fb34
+timeCreated: 1493757368
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: A-15-BIT
+  fontNames:
+  - A-15-BIT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
